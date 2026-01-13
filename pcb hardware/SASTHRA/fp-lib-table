@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SIM800L_project")(type "KiCad")(uri "${KIPRJMOD}/SIM800L_project.pretty")(options "")(descr ""))
+  (lib (name "NEO6M_GPS")(type "KiCad")(uri "${KIPRJMOD}/NEO6M_GPS.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+)
